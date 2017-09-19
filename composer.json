@@ -30,7 +30,8 @@
     "auto-append-gitignore": true
   },
   "config": {
-    "discard-changes": true
+    "discard-changes": true,
+    "secure-http": false
   },
   "minimum-stability": "dev",
   "prefer-stable": true,
